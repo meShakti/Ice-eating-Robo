@@ -1,0 +1,55 @@
+/* {
+    border: 1px solid red !important;
+}*/
+
+body {
+    background: #202020;
+
+}
+
+
+canvas {
+    display: block;
+
+}
+
+
+#canvasBg {
+    background: #ffffff;
+    
+}
+
+
+#overlapping  {
+    margin: -525px 0 0;
+    padding: 0px;
+    max-width:795px; 
+    max-height:525px;
+    
+}
+
+#formDiv{
+	background-color: rgb(208,165,228);
+	width:795px;
+	margin-top:0px;
+	padding-top: 0px;
+	border-radius: 5px;
+		
+}
+
+#formDiv label,input{
+	margin-left:5px;
+} 
+
+#formDiv input{
+	max-width: 100px;
+}
+#jump {
+	border-radius:100%;
+	background-color: #00ff00;
+	color:#0000ff;
+	text-transform: uppercase;
+
+}
+
+
